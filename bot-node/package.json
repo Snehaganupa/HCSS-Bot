@@ -1,0 +1,15 @@
+{
+  "name": "hcss-teams-bot",
+  "version": "1.0.0",
+  "description": "Teams bot that connects to Flask MCP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "botbuilder": "^4.14.1",
+    "restify": "^11.1.0",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
